@@ -5,9 +5,7 @@ Sam小工具更新
 #1 加入 目标检测/分割 数据保存功能 - 包含 （标签.txt，类别.txt)
 #2 加入 工作区域缩放功能（ctrl+滚轮）/ 加入 可仅分割当前缩放工作区域的内容的功能（小目标分割十分适用）
 #3 加入 类别菜单功能（可快速对分割目标进行定义）
-<img width="1045" height="869" alt="image" src="https://github.com/user-attachments/assets/efba8f58-2143-47d0-926b-3ed1c51aa0c9" />
 #4 加入 锚点/掩码 便捷删除功能，目前鼠标指针移动到锚点时（未选定绿色，选定为红色），选定状态时右键即可删除；掩码部分选定时掩码会变色。
-<img width="748" height="316" alt="image" src="https://github.com/user-attachments/assets/f82bb2b0-be37-4a85-9bd3-ddcee8c86fc4" />
 #5 加入 标签载入功能（用于检验标注标签是否有问题）
 #6 加入 各类操作快捷键
 #7 优化 更多可视化效果（最小内接矩阵框 / 掩码选定 / 锚点选定）
