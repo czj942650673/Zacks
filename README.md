@@ -3,7 +3,6 @@
 Sam小工具更新
 
 #1 加入 目标检测/分割 数据保存功能 - 包含 （标签.txt，类别.txt)
-<img width="283" height="58" alt="image" src="https://github.com/user-attachments/assets/aaed2e4a-ae61-42c0-a6a6-d5fd0cf2df7d" />
 #2 加入 工作区域缩放功能（ctrl+滚轮）/ 加入 可仅分割当前缩放工作区域的内容的功能（小目标分割十分适用）
 #3 加入 类别菜单功能（可快速对分割目标进行定义）
 <img width="1045" height="869" alt="image" src="https://github.com/user-attachments/assets/efba8f58-2143-47d0-926b-3ed1c51aa0c9" />
