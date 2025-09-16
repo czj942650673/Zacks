@@ -1,4 +1,4 @@
-<img width="543" height="465" alt="image" src="https://github.com/user-attachments/assets/12a95df9-3519-42a3-aae4-a23600529374" />#阿君的蜜汁小工坊#
+# 阿君的蜜汁小工坊 #
 
 Sam小工具更新
 
